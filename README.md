@@ -19,3 +19,6 @@ Coming to the applicaion, It is a quiz on me(Saicharan Gouru).
 * Click on the website link given.
 * Click on the play button at bottom right corner.
 
+## Screenshot
+
+![screenshot](screenshot.PNG)
